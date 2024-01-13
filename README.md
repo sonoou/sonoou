@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning java fullstack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
+      twitter - <a href="https://x.com/S_0_N_U">S_0_N_U</a>
 
 <!---
 sonoou/sonoou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
