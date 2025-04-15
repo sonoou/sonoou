@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sonoou
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java Backend
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Spring
 - 📫 How to reach me
 
 <!---
